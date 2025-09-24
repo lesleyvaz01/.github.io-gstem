@@ -6,7 +6,7 @@ body{
 ul{
     list-style: none;   /* get rid of bullet */
     display:flex;
-    background-color: black;
+    background-color: pink;
     margin: 0;
     padding: 10px 0px;
     font-family: "SUSE Mono", serif;
@@ -24,7 +24,7 @@ li a{
 
 li a:hover{
     background-color: darkslategrey;
-    color:#C3AB77;
+    color:red;
 }
 
 li a:active{

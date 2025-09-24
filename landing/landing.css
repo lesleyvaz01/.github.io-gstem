@@ -6,7 +6,7 @@ body{
 ul{
     list-style: none;   /* get rid of bullet */
     display:flex;
-    background-color: pink;
+    background-color: #EEC1C6;
     margin: 0;
     padding: 10px 0px;
     font-family: "SUSE Mono", serif;
